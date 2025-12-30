@@ -1,0 +1,10 @@
+C:\Users\ca01114\source\repos\PcquoVS2005 sample new\PcquoExample\PcquoExample\bin\Debug\PcquoExample.exe
+C:\Users\ca01114\source\repos\PcquoVS2005 sample new\PcquoExample\PcquoExample\bin\Debug\PcquoExample.pdb
+C:\Users\ca01114\source\repos\PcquoVS2005 sample new\PcquoExample\PcquoExample\obj\Debug\PcquoExample.csprojAssemblyReference.cache
+C:\Users\ca01114\source\repos\PcquoVS2005 sample new\PcquoExample\PcquoExample\obj\Debug\PcquoExample.Form1.resources
+C:\Users\ca01114\source\repos\PcquoVS2005 sample new\PcquoExample\PcquoExample\obj\Debug\PcquoExample.Properties.Resources.resources
+C:\Users\ca01114\source\repos\PcquoVS2005 sample new\PcquoExample\PcquoExample\obj\Debug\PcquoExample.csproj.GenerateResource.cache
+C:\Users\ca01114\source\repos\PcquoVS2005 sample new\PcquoExample\PcquoExample\obj\Debug\PcquoExample.csproj.CoreCompileInputs.cache
+C:\Users\ca01114\source\repos\PcquoVS2005 sample new\PcquoExample\PcquoExample\obj\Debug\PcquoExample.csproj.CopyComplete
+C:\Users\ca01114\source\repos\PcquoVS2005 sample new\PcquoExample\PcquoExample\obj\Debug\PcquoExample.exe
+C:\Users\ca01114\source\repos\PcquoVS2005 sample new\PcquoExample\PcquoExample\obj\Debug\PcquoExample.pdb

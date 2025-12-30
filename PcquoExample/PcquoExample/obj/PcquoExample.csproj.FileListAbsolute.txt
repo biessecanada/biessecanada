@@ -1,0 +1,42 @@
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\VS2005\PcquoExample\PcquoExample\obj\Debug\ResolveAssemblyReference.cache
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\VS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.Properties.Resources.resources
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\VS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.csproj.GenerateResource.Cache
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\VS2005\PcquoExample\PcquoExample\bin\Debug\PcquoExample.exe
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\VS2005\PcquoExample\PcquoExample\bin\Debug\PcquoExample.pdb
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\VS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.exe
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\VS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.pdb
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\VS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.Form1.resources
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\PcquoVS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.exe
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\PcquoVS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.pdb
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\PcquoVS2005\PcquoExample\PcquoExample\bin\Debug\PcquoExample.exe
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\PcquoVS2005\PcquoExample\PcquoExample\bin\Debug\PcquoExample.pdb
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\PcquoVS2005\PcquoExample\PcquoExample\obj\Debug\ResolveAssemblyReference.cache
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\PcquoVS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.Form1.resources
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\PcquoVS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.Properties.Resources.resources
+E:\Documenti\DOC\MANUALI\PCQUOINVIATEINGIRO\PcquoVS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.csproj.GenerateResource.Cache
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.exe
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.pdb
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005\PcquoExample\PcquoExample\bin\Debug\PcquoExample.exe
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005\PcquoExample\PcquoExample\bin\Debug\PcquoExample.pdb
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005\PcquoExample\PcquoExample\obj\Debug\ResolveAssemblyReference.cache
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.Form1.resources
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.Properties.Resources.resources
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005\PcquoExample\PcquoExample\obj\Debug\PcquoExample.csproj.GenerateResource.Cache
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005 sample\PcquoExample\PcquoExample\obj\Debug\PcquoExample.exe
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005 sample\PcquoExample\PcquoExample\obj\Debug\PcquoExample.pdb
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005 sample\PcquoExample\PcquoExample\bin\Debug\PcquoExample.exe
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005 sample\PcquoExample\PcquoExample\bin\Debug\PcquoExample.pdb
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005 sample\PcquoExample\PcquoExample\obj\Debug\ResolveAssemblyReference.cache
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005 sample\PcquoExample\PcquoExample\obj\Debug\PcquoExample.Form1.resources
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005 sample\PcquoExample\PcquoExample\obj\Debug\PcquoExample.Properties.Resources.resources
+E:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005 sample\PcquoExample\PcquoExample\obj\Debug\PcquoExample.csproj.GenerateResource.Cache
+c:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005 sample\PcquoExample\PcquoExample\obj\Debug\PcquoExample.exe
+c:\Gianguido\CNI\Librerie PCQuo\PcquoVS2005 sample\PcquoExample\PcquoExample\obj\Debug\PcquoExample.pdb
+C:\Sviluppo\PcquoVS2005 sample\PcquoExample\PcquoExample\obj\Debug\PcquoExample.exe
+C:\Sviluppo\PcquoVS2005 sample\PcquoExample\PcquoExample\obj\Debug\PcquoExample.pdb
+C:\Sviluppo\PcquoVS2005 sample\PcquoExample\PcquoExample\bin\Debug\PcquoExample.exe
+C:\Sviluppo\PcquoVS2005 sample\PcquoExample\PcquoExample\bin\Debug\PcquoExample.pdb
+C:\Sviluppo\PcquoVS2005 sample\PcquoExample\PcquoExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Sviluppo\PcquoVS2005 sample\PcquoExample\PcquoExample\obj\Debug\PcquoExample.Form1.resources
+C:\Sviluppo\PcquoVS2005 sample\PcquoExample\PcquoExample\obj\Debug\PcquoExample.Properties.Resources.resources
+C:\Sviluppo\PcquoVS2005 sample\PcquoExample\PcquoExample\obj\Debug\PcquoExample.csproj.GenerateResource.Cache

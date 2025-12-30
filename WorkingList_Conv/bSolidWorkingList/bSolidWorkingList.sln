@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bSolidWorkingList", "bSolidWorkingList.csproj", "{DC005C62-315D-42C3-88FB-CF0C82088D6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		bSolidWorkingList|Any CPU = bSolidWorkingList|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC005C62-315D-42C3-88FB-CF0C82088D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC005C62-315D-42C3-88FB-CF0C82088D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC005C62-315D-42C3-88FB-CF0C82088D6A}.bSolidWorkingList|Any CPU.ActiveCfg = bSolidWorkingList|Any CPU
+		{DC005C62-315D-42C3-88FB-CF0C82088D6A}.bSolidWorkingList|Any CPU.Build.0 = bSolidWorkingList|Any CPU
+	EndGlobalSection
+EndGlobal

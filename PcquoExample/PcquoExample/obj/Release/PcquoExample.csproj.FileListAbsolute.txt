@@ -1,0 +1,8 @@
+C:\Users\ca01114\source\repos\PcquoExample\PcquoExample\bin\Release\PcquoExample.exe
+C:\Users\ca01114\source\repos\PcquoExample\PcquoExample\bin\Release\PcquoExample.pdb
+C:\Users\ca01114\source\repos\PcquoExample\PcquoExample\obj\Release\PcquoExample.Form1.resources
+C:\Users\ca01114\source\repos\PcquoExample\PcquoExample\obj\Release\PcquoExample.Properties.Resources.resources
+C:\Users\ca01114\source\repos\PcquoExample\PcquoExample\obj\Release\PcquoExample.csproj.GenerateResource.cache
+C:\Users\ca01114\source\repos\PcquoExample\PcquoExample\obj\Release\PcquoExample.csproj.CoreCompileInputs.cache
+C:\Users\ca01114\source\repos\PcquoExample\PcquoExample\obj\Release\PcquoExample.exe
+C:\Users\ca01114\source\repos\PcquoExample\PcquoExample\obj\Release\PcquoExample.pdb

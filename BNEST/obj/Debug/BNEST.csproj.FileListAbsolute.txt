@@ -1,0 +1,6 @@
+D:\NextCloud\IT\SharpDevelop Projects\BNEST\bin\Debug\BNEST.exe.config
+D:\NextCloud\IT\SharpDevelop Projects\BNEST\bin\Debug\BNEST.exe
+D:\NextCloud\IT\SharpDevelop Projects\BNEST\bin\Debug\BNEST.pdb
+D:\NextCloud\IT\SharpDevelop Projects\BNEST\obj\Debug\BNEST.csprojResolveAssemblyReference.cache
+D:\NextCloud\IT\SharpDevelop Projects\BNEST\obj\Debug\BNEST.exe
+D:\NextCloud\IT\SharpDevelop Projects\BNEST\obj\Debug\BNEST.pdb

@@ -1,0 +1,6 @@
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKO\BarcodeEKO\bin\Debug\BarcodeEKO.exe.config
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKO\BarcodeEKO\bin\Debug\BarcodeEKO.exe
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKO\BarcodeEKO\bin\Debug\BarcodeEKO.pdb
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKO\BarcodeEKO\obj\Debug\BarcodeEKO.vbprojResolveAssemblyReference.cache
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKO\BarcodeEKO\obj\Debug\BarcodeEKO.exe
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKO\BarcodeEKO\obj\Debug\BarcodeEKO.pdb

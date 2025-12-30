@@ -1,0 +1,4 @@
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKO\BarcodeEKO\bin\Release\BarcodeEKO.exe
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKO\BarcodeEKO\bin\Release\BarcodeEKO.exe.config
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKO\BarcodeEKO\obj\Release\BarcodeEKO.vbprojResolveAssemblyReference.cache
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKO\BarcodeEKO\obj\Release\BarcodeEKO.exe

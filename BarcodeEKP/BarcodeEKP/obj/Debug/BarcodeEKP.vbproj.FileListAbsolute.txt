@@ -1,0 +1,6 @@
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKP\BarcodeEKP\obj\Debug\BarcodeEKP.vbprojResolveAssemblyReference.cache
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKP\BarcodeEKP\bin\Debug\BarcodeEKP.exe.config
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKP\BarcodeEKP\bin\Debug\BarcodeEKP.exe
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKP\BarcodeEKP\bin\Debug\BarcodeEKP.pdb
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKP\BarcodeEKP\obj\Debug\BarcodeEKP.exe
+D:\NextCloud\IT\SharpDevelop Projects\BarcodeEKP\BarcodeEKP\obj\Debug\BarcodeEKP.pdb

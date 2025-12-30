@@ -1,0 +1,6 @@
+D:\NextCloud\IT\SharpDevelop Projects\Barcode\Barcode\bin\Debug\Barcode.exe.config
+D:\NextCloud\IT\SharpDevelop Projects\Barcode\Barcode\bin\Debug\Barcode.exe
+D:\NextCloud\IT\SharpDevelop Projects\Barcode\Barcode\bin\Debug\Barcode.pdb
+D:\NextCloud\IT\SharpDevelop Projects\Barcode\Barcode\obj\Debug\Barcode.csprojResolveAssemblyReference.cache
+D:\NextCloud\IT\SharpDevelop Projects\Barcode\Barcode\obj\Debug\Barcode.exe
+D:\NextCloud\IT\SharpDevelop Projects\Barcode\Barcode\obj\Debug\Barcode.pdb

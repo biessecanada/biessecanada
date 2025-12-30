@@ -1,0 +1,6 @@
+C:\Users\ca01114\Documents\SharpDevelop Projects\bSolidWorkingList\bSolidWorkingList\bin\Debug\bSolidWorkingList.exe.config
+C:\Users\ca01114\Documents\SharpDevelop Projects\bSolidWorkingList\bSolidWorkingList\bin\Debug\bSolidWorkingList.exe
+C:\Users\ca01114\Documents\SharpDevelop Projects\bSolidWorkingList\bSolidWorkingList\bin\Debug\bSolidWorkingList.pdb
+C:\Users\ca01114\Documents\SharpDevelop Projects\bSolidWorkingList\bSolidWorkingList\obj\Debug\bSolidWorkingList.csprojResolveAssemblyReference.cache
+C:\Users\ca01114\Documents\SharpDevelop Projects\bSolidWorkingList\bSolidWorkingList\obj\Debug\bSolidWorkingList.exe
+C:\Users\ca01114\Documents\SharpDevelop Projects\bSolidWorkingList\bSolidWorkingList\obj\Debug\bSolidWorkingList.pdb
